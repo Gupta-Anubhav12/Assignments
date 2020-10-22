@@ -1,0 +1,1 @@
+window.repositoryObject = {"object_id":"d4","name":"qYfI2UxniT@remotemysql.com","description":null,"summary":[{"field":"Host","value":"remotemysql.com"},{"field":"Database","value":"qYfI2UxniT"},{"field":"DBMS","value":"Percona Server for MySQL 8.x"}],"modules":[],"dbObjects":[{"count":24,"id":"d4t","name":"Tables"}],"show_schema":false};
