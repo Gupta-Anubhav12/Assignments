@@ -11,6 +11,6 @@
 [Source Code](https://github.com/Gupta-Anubhav12/Assignments/tree/main/wdt/Lab2)
 [Live Demo](https://realdevils.com/portfolio/Anubhav%20Gupta)
 
-## Lab2 To Implement a styled design
+## Lab3 To Implement a styled design
 [Source Code](https://github.com/Gupta-Anubhav12/JobFilter)
 [Live Demo](https://heuristic-borg-007ce1.netlify.app/)
