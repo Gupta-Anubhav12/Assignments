@@ -1,0 +1,23 @@
+<PORTFOLIO>
+<PROJECT>
+<TITLE>Online Kitab Ghar</TITLE>
+<SKILLS>Django, Html, Css,Nginx,Python, Rest  </SKILLS>
+<Stack>Full Stack</Stack>
+<COMPANY>Kitab Ghar</COMPANY>
+<DESCRIPTION>Made a full stack ecommerce in Django and Vanilla JS</DESCRIPTION>
+</PROJECT>
+<PROJECT>
+<TITLE>The Gita API</TITLE>
+<SKILLS>Python, FastAPI, Graphene, Postgres, and Dochelp</SKILLS>
+<Stack>FARP</Stack>
+<COMPANY>The Gita Initiative</COMPANY>
+<DESCRIPTION>https://github.com/gita/bhagavad-gita-api</DESCRIPTION>
+</PROJECT>
+<PROJECT>
+<TITLE>Zeal</TITLE>
+<SKILLS>Django, Html, Css</SKILLS>
+<Stack>fullStack</Stack>
+<COMPANY>NITJ</COMPANY>
+<DESCRIPTION>Official Website of Zeal society</DESCRIPTION>
+</PROJECT>
+</PORTFOLIO>
