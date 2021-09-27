@@ -27,4 +27,4 @@
 ---
 
 - [2.Clock Live Demo](https://gupta-anubhav12.github.io/Assignments/wdt/Lab5.html)
-- [2. Source Code]((https://github.com/Gupta-Anubhav12/Assignments/blob/main/wdt/Lab5.html))
+- [2. Source Code](https://github.com/Gupta-Anubhav12/Assignments/blob/main/wdt/Lab5.html)
