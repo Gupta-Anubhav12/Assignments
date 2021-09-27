@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <style>
+
+.card {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    border: 1px #FEC8D8;
+}
+.header {
+    height: 30%;
+    background: #957DAD;
+    color: white;
+    text-align: center;
+}
+.container {
+    padding: 2px 16px;
+}
+    </style>
+<h2>My Projects:</h2>
+
+<button type="button" onclick="loadXMLDoc()">
+Get my Projects</button>
+
+<p id="demo"></p>
+
+<script>
+function loadXMLDoc() {
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      myFunction(this);
+    }
+  };
+  xmlhttp.open("GET", "https://gupta-anubhav12.github.io/Assignments/wdt/Lab4/data.xml", true);
+  xmlhttp.send();
+}
+
+function myFunction(xml) {
+  var x, i, xmlDoc, txt;
+  xmlDoc = xml.responseXML;
+  txt = "";
+  x = xmlDoc.getElementsByTagName("TITLE");
+  var y = xmlDoc.getElementsByTagName("SKILLS");
+  var z = xmlDoc.getElementsByTagName("Stack")
+  for (i = 0; i< x.length; i++) {
+    txt += ` <div class="card">
+        <div class="header">
+            <p>`+ x[i].childNodes[0].nodeValue+`</p>
+        </div>
+            <div class="container">
+            <p> <b>Skills</b>  `+ y[i].childNodes[0].nodeValue + `</p>
+            <p><b>Stack</b>  `+ z[i].childNodes[0].nodeValue  + `</p>
+        </div>
+    </div>`
+  }
+  document.getElementById("demo").innerHTML = txt;
+}
+</script>
+
+</body>
+</html>
+
