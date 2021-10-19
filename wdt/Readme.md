@@ -28,3 +28,16 @@
 
 - [2.Clock Live Demo](https://gupta-anubhav12.github.io/Assignments/wdt/Lab5.html)
 - [2. Source Code](https://github.com/Gupta-Anubhav12/Assignments/blob/main/wdt/Lab5.html)
+
+## Lab 6 To Create a simple XML Feed 
+
+- [Source-Code](Lab6/Blog.xml)
+  
+## Lab 7 To Create XML DTD Rules
+
+- [Source-Code](Lab7/DTD.xml)
+
+## Lab 8 To display College information
+
+- [Live Demo](https://gupta-anubhav12.github.io/ICWREC-2021/index.html)
+- [Source Code](https://github.com/Gupta-Anubhav12/ICWREC-2021)
