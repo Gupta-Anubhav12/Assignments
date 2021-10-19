@@ -35,7 +35,7 @@
   
 ## Lab 7 To Create XML DTD Rules
 
-- [Source-Code](Lab7/DTD.xml)
+- [Source-Code](Lab7/DTD.dtd)
 
 ## Lab 8 To display College information
 
