@@ -45,4 +45,4 @@
 ## Lab 9 Form validation using Vanilla Js
 
 - [Live Demo](https://gupta-anubhav12.github.io/Assignments/wdt/Lab8/index.html) 
-- [Source Code](https://github.com/Gupta-Anubhav12/wdt/Lab8/index.html)
+- [Source Code](https://github.com/Gupta-Anubhav12/Assignments/blob/main/wdt/Lab8/index.html)
