@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <style>
+
+        .box{
+            padding:100px;
+            text-align: center;
+        }
+        .button{
+            box-shadow: 1px 2px;
+        }
+        
+
+    </style>
+
+    <div class="box">
+
+        <h2>Submit Adhaar Card Number</h2>
+
+    <form action="">
+
+    <input class="input" type="text" id="txtAadhar"  />
+
+    <input class="button" type="submit" onClick="AadharValidate();">
+
+    </form>
+
+    </div>
+
+
+
+
+    <script type="text/javascript">
+    function AadharValidate() {
+        var aadhar = document.getElementById("txtAadhar").value;
+        var adharcardTwelveDigit = /^\d{12}$/;
+        var adharSixteenDigit = /^\d{16}$/;
+        if (aadhar != '') {
+            if (aadhar.match(adharcardTwelveDigit)) {
+                return true;
+            }
+            else if (aadhar.match(adharSixteenDigit)) {
+                return true;
+            }
+            else {
+                alert("Enter valid Aadhar Number");
+                return false;
+            }
+        }
+    }
+</script>
+ 
+</body>
+</html>
