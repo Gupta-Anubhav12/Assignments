@@ -46,3 +46,25 @@
 
 - [Live Demo](https://gupta-anubhav12.github.io/Assignments/wdt/Lab8/index.html) 
 - [Source Code](https://github.com/Gupta-Anubhav12/Assignments/blob/main/wdt/Lab8/index.html)
+
+## Lab 10 To implement Java Servlet for HTTP proxy server
+
+- [Source Code](Lab10/HttpProxyServer.java)
+
+
+## Lab 11 
+
+Form Validation 
+- [Live Demo](https://gupta-anubhav12.github.io/Assignments/wdt/Lab8/index.html) 
+- [Source Code](https://github.com/Gupta-Anubhav12/Assignments/blob/main/wdt/Lab8/index.html)
+
+
+JSP Script
+
+- [Source Code](Lab11/main.jsp)
+
+Database Connection
+
+- [Souce Code](Lab11/DatabaseConnection.jsp)
+
+
