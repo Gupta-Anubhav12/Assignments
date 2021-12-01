@@ -49,8 +49,8 @@
 
 ## Lab 10 To implement Java Servlet for HTTP proxy server
 
-- [Source Code](Lab10/HttpProxyServer.java)
-
+- [Download File](Lab10/HttpProxyServer.java)
+- [See it on web](Lab10/Lab10)
 
 ## Lab 11 
 
@@ -61,10 +61,12 @@ Form Validation
 
 JSP Script
 
-- [Source Code](Lab11/main.jsp)
+- [Download File](Lab11/main.jsp)
+- [See it on web](Lab11/Lab11)
 
 Database Connection
 
-- [Souce Code](Lab11/DatabaseConnection.jsp)
+- [Download File](Lab11/DatabaseConnection.jsp)
+- [See it on web](Lab11/Lab11b)
 
 
