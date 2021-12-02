@@ -6,6 +6,10 @@
 
 This can be easily achieved by the marquee tag, with the syntax below
 
+<marquee width="60%" direction="down" height="100px">
+This is a sample scrolling text that has scrolls texts to down.
+</marquee>
+
 ```
 <marquee width="60%" direction="down" height="100px">
 This is a sample scrolling text that has scrolls texts to down.
