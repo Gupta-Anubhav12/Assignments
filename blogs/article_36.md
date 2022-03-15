@@ -1,0 +1,28 @@
+# What Is A Reverse Merger?
+There’s more than one way to take a company public. A reverse merger—also known as a reverse takeover or a reverse initial public offering (IPO)—is an alternative strategy private companies use to make their stock available to the general public.
+## Understanding Reverse Mergers
+In a reverse merger, a private company acquires a publicly listed company. The owners of the private company become the controlling shareholders of the public company, and after the acquisition is complete, they reorganize the public company’s assets and operations to absorb the formerly private company.
+The term “reverse” refers to the idea of a private firm acquiring an already public company, which is the opposite of a typical IPO scenario.
+## Why Do Companies Choose a Reverse Merger?
+First, it’s important to understand why a company may choose to go public to begin with. Companies sell shares to the general investing public to raise their name recognition and access more sources of financing than are generally available to private firms. Traditionally, this is done through an initial public offering, or IPO.
+IPOs, however, are complicated, time-consuming endeavors and usually involve hiring an investment bank to underwrite the deal and issue shares. There’s also an extensive due diligence process, tons of paperwork and regulatory reviews. What’s more, even after all of that, unfavorable market conditions beyond any company’s control can complicate if, or when, an IPO happens.
+But none of the costs and complications of a standard IPO apply in a reverse merger, which means they provide private companies a quick way to go public. This is especially important for companies that might not have the funding or abilities to handle an official IPO.
+## The Reverse Merger Process
+There are many public companies with shares listed on public stock exchanges—typically over-the-counter (OTC) markets—that have few to no ongoing operations or assets. These are called “shell companies,” and they are the usual targets of reverse mergers.
+The first step in a reverse merger is for the owners of the public company to buy at least 51% of the shares of a shell company. Once they own a majority stake, they swap the shares of the private company for existing or new shares of the public shell company. The private company then ends up as a wholly owned subsidiary of the shell company.
+Unlike a conventional IPO, there is no new capital raised during a reverse merger. That’s why they can be completed more quickly: There’s no need to drum up publicity for the deal and catch the attention of institutional or retail investors.
+## Reverse Mergers and Fraud
+Given the lower levels of regulatory oversight and smaller number of investors involved in a deal, the risk of fraudulent or unethical reverse mergers is very real.
+Compliance and fraud risks of a shell company are huge issues in reverse mergers, and a ton of diligence is needed. Besides, reverse mergers typically end up unsuccessful as most companies turn to them when they can’t raise money in private markets, and they don’t generate enough interest for an IPO.
+The Securities and Exchange Commission (SEC) has highlighted the fraud risks posed by some reverse mergers, warning that the public companies emerging from a reverse merger can fail or otherwise struggle to remain viable.
+## Advantages of a Reverse Merger
+Quicker access to financing -  Reverse mergers take one to three months to complete while IPOs often take six months or longer.
+No middleman -  Unlike IPOs, reverse mergers don’t require an investment bank to serve as an underwriter. Instead, the deal is between two parties—the public company and the private company.
+Less expensive -  Because they don’t involve paying fees to financial institutions and take less time to complete, reverse mergers cost less than IPOs.
+Not as dependent on market conditions -  Successful IPOs depend on robust demand and attention to be successful. Because they are not seeking to raise funds in the same way, though, reverse mergers are not as reliant on the overall state of the market.
+## Disadvantages of a Reverse Merger
+More due diligence required -  That goes for both investors and the companies involved in a reverse merger. Consumers in particular should heed the SEC fraud warning above: Vetting the company that emerges from a reverse merger is essential, given the much lower level of regulatory review needed to complete a reverse merger compared to an IPO.
+Lack of interest and liquidity after merger is done -  The sort of small companies that are typically involved in reverse merger might not be ready to be public companies. They therefore may lack the scale and viability needed to sustain the burdens of being a public company and sustain investor interest in their shares, which may make them harder to trade long term.
+A risk of no big return on the investment - Reverse mergers don’t always get a lot of publicity, aren’t commonly tracked by Wall Street analysts and may not deliver the sizable investment gains that a robust IPO company may. And remember: Even IPOs are not sure bets when it comes to seeing returns on your investments, but companies that go public through reverse mergers are on even shakier footing.
+## Summing up
+Reverse mergers are a quick and cheap way for private companies to go public. They involve a private company acquiring a publicly listed company and becoming a wholly owned subsidiary of the shell company. There are many risks associated with reverse mergers, including the risk of fraud. However, they also have some advantages, including quicker access to financing and less dependence on market conditions.
